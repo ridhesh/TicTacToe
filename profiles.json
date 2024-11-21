@@ -1,0 +1,14 @@
+{
+    "Player1": {
+        "name": "Player1",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+    },
+    "Player2": {
+        "name": "Player2",
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+    }
+}
